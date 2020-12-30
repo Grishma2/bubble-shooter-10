@@ -1,1 +1,2 @@
-# bubble-shooter-10
+# staticSquare
+A static square made using Matter.js physics engine
